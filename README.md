@@ -1,6 +1,6 @@
 ## test-repo
 This is a test repo.
 
-* firt item
+* first item
 * second item
 * third item
